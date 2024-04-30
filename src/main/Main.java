@@ -12,7 +12,7 @@ public class Main {
 		String letra;
 		for (int i = 0;i<cadena.length()-1;i++) {
 			letra = cadena.substring(i, i+1);
-			System.out.println(letr);
+			System.out.println(letra);
 		}
 		
 	}
